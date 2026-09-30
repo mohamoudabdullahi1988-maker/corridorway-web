@@ -1,0 +1,15 @@
+<form method="post" action="REPLACE_WITH_REAL_APPROVED_ENDPOINT" novalidate>
+<p>Share a sourcing requirement. Submission does not create a binding offer.</p>
+<div id="buyer-error-summary" role="alert" tabindex="-1" hidden></div>
+<label for="buyer-name">Full name</label><input id="buyer-name" name="name" autocomplete="name" required>
+<label for="buyer-company">Company</label><input id="buyer-company" name="company" autocomplete="organization" required>
+<label for="buyer-email">Business email</label><input id="buyer-email" name="email" type="email" autocomplete="email" required>
+<label for="buyer-mineral">Mineral</label><select id="buyer-mineral" name="mineral" required><option value="">Select mineral</option><option>Gypsum</option><option>Copper</option><option>Gold and precious minerals</option><option>Other</option></select>
+<label for="buyer-spec">Grade, material form and specification</label><textarea id="buyer-spec" name="specification" required aria-describedby="buyer-spec-help"></textarea><p id="buyer-spec-help">Do not upload confidential evidence in the initial inquiry.</p>
+<label for="buyer-volume">Quantity and frequency</label><input id="buyer-volume" name="quantity" required placeholder="For example: 5,000 dry metric tonnes per month">
+<label for="buyer-destination">Destination port or named location</label><input id="buyer-destination" name="destination" required>
+<label for="buyer-basis">Delivery basis</label><select id="buyer-basis" name="delivery_basis"><option>Please advise</option><option>FOB — name port in notes</option><option>CFR — name port in notes</option><option>CIF — name port in notes</option><option>Other agreed basis</option></select>
+<label for="buyer-timeline">Required timeline</label><input id="buyer-timeline" name="timeline" required>
+<p>Read our <a href="https://corridorway.com/privacy/">Privacy Policy</a> and <a href="https://corridorway.com/terms/">Terms of Use</a>. The approved processing notice must match the actual workflow.</p>
+<button type="submit">Submit buyer requirement</button>
+</form>

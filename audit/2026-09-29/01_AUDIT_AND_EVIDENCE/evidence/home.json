@@ -1,0 +1,702 @@
+{
+  "headings": [
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "73.6px",
+      "tag": "H1",
+      "text": "FROM ORIGIN\nTO GLOBAL INDUSTRY."
+    },
+    {
+      "color": "rgb(210, 173, 98)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "15px",
+      "tag": "H3",
+      "text": "ORIGIN"
+    },
+    {
+      "color": "rgb(210, 173, 98)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "15px",
+      "tag": "H3",
+      "text": "PROOF"
+    },
+    {
+      "color": "rgb(200, 117, 66)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "15px",
+      "tag": "H3",
+      "text": "MOVEMENT"
+    },
+    {
+      "color": "rgb(210, 173, 98)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "15px",
+      "tag": "H3",
+      "text": "MARKET"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "20.445px",
+      "tag": "H2",
+      "text": "WHAT WE TRADE"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "12px",
+      "tag": "H4",
+      "text": "GYPSUM"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "12px",
+      "tag": "H4",
+      "text": "COPPER"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "12px",
+      "tag": "H4",
+      "text": "GOLD & PRECIOUS"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "20.445px",
+      "tag": "H2",
+      "text": "BERBERA GATEWAY"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "20.445px",
+      "tag": "H2",
+      "text": "EVIDENCE STACK"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "20.445px",
+      "tag": "H2",
+      "text": "TRADE SERVICES"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "11px",
+      "tag": "H5",
+      "text": "Buyer Requirement"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "11px",
+      "tag": "H5",
+      "text": "Strategic Sourcing"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "11px",
+      "tag": "H5",
+      "text": "Verification & Assay"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "11px",
+      "tag": "H5",
+      "text": "Commercial Alignment"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "11px",
+      "tag": "H5",
+      "text": "Logistics & Export"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "11px",
+      "tag": "H5",
+      "text": "After-Sales Support"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "20.445px",
+      "tag": "H2",
+      "text": "TRADE INTELLIGENCE"
+    },
+    {
+      "color": "rgb(23, 29, 34)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "12px",
+      "tag": "H3",
+      "text": "Berbera Port Performance Update"
+    },
+    {
+      "color": "rgb(23, 29, 34)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "12px",
+      "tag": "H3",
+      "text": "Copper Market Outlook"
+    },
+    {
+      "color": "rgb(23, 29, 34)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "12px",
+      "tag": "H3",
+      "text": "Global Gypsum Outlook"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "20.445px",
+      "tag": "H2",
+      "text": "RESPONSIBLE TRADE"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, sans-serif",
+      "size": "28px",
+      "tag": "H2",
+      "text": "READY TO TRADE WITH CONFIDENCE?"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "13px",
+      "tag": "H4",
+      "text": "COMPANY"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "13px",
+      "tag": "H4",
+      "text": "MINERALS"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "13px",
+      "tag": "H4",
+      "text": "TRADE"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "13px",
+      "tag": "H4",
+      "text": "BERBERA GATEWAY"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "13px",
+      "tag": "H4",
+      "text": "RESPONSIBLE TRADE"
+    },
+    {
+      "color": "rgb(255, 255, 255)",
+      "font": "\"Inter Tight\", Inter, system-ui, sans-serif",
+      "size": "13px",
+      "tag": "H4",
+      "text": "INTELLIGENCE"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Corridorway",
+      "intrinsic": [
+        160,
+        40
+      ],
+      "loading": "auto",
+      "render": [
+        160,
+        40
+      ],
+      "src": "https://corridorway.com/wp-content/uploads/2026/09/corridorway_header_logo_current_visual_2x-300x75.png",
+      "srcset": "https://corridorway.com/wp-content/uploads/2026/09/corridorway_header_logo_current_visual_2x.png 800w, https://corridorway.com/wp-content/uploads/2026/09/corridorway_header_logo_current_visual_2x-300x75.png 300w, https://corridorway.com/wp-content/uploads/2026/09/corridorway_header_logo_current_visual_2x-768x192.png 768w"
+    },
+    {
+      "alt": "Bulk carrier and gantry cranes at Berbera port at dusk",
+      "intrinsic": [
+        1376,
+        768
+      ],
+      "loading": "eager",
+      "render": [
+        836,
+        461
+      ],
+      "src": "https://corridorway.com/wp-content/uploads/2026/09/hero-berbera-port-aerial-sunset.jpg",
+      "srcset": ""
+    },
+    {
+      "alt": "Industrial-grade gypsum",
+      "intrinsic": [
+        1024,
+        1024
+      ],
+      "loading": "lazy",
+      "render": [
+        119,
+        96
+      ],
+      "src": "https://corridorway.com/wp-content/uploads/2026/09/mineral-gypsum-crystal-cluster.jpg",
+      "srcset": ""
+    },
+    {
+      "alt": "Copper ore concentrate",
+      "intrinsic": [
+        1024,
+        1024
+      ],
+      "loading": "lazy",
+      "render": [
+        119,
+        96
+      ],
+      "src": "https://corridorway.com/wp-content/uploads/2026/09/mineral-copper-raw-nuggets.jpg",
+      "srcset": ""
+    },
+    {
+      "alt": "Gold and precious minerals",
+      "intrinsic": [
+        1024,
+        1024
+      ],
+      "loading": "lazy",
+      "render": [
+        119,
+        96
+      ],
+      "src": "https://corridorway.com/wp-content/uploads/2026/09/mineral-gold-nuggets.jpg",
+      "srcset": ""
+    },
+    {
+      "alt": "Berbera port logistics operations",
+      "intrinsic": [
+        1672,
+        941
+      ],
+      "loading": "lazy",
+      "render": [
+        448,
+        463
+      ],
+      "src": "https://corridorway.com/wp-content/uploads/2026/09/homepage_berbera_gateway_map_current-1.png",
+      "srcset": ""
+    },
+    {
+      "alt": "Berbera port operations",
+      "intrinsic": [
+        1376,
+        768
+      ],
+      "loading": "lazy",
+      "render": [
+        121,
+        74
+      ],
+      "src": "https://corridorway.com/wp-content/uploads/2026/09/homepage_intelligence_berbera_current-1.png",
+      "srcset": ""
+    },
+    {
+      "alt": "Copper ore concentrate",
+      "intrinsic": [
+        1024,
+        1024
+      ],
+      "loading": "lazy",
+      "render": [
+        121,
+        74
+      ],
+      "src": "https://corridorway.com/wp-content/uploads/2026/09/homepage_intelligence_copper_current-1.png",
+      "srcset": ""
+    },
+    {
+      "alt": "Industrial-grade gypsum",
+      "intrinsic": [
+        1024,
+        1024
+      ],
+      "loading": "lazy",
+      "render": [
+        121,
+        74
+      ],
+      "src": "https://corridorway.com/wp-content/uploads/2026/09/homepage_intelligence_gypsum_current-1.png",
+      "srcset": ""
+    },
+    {
+      "alt": "Verification and assay laboratory",
+      "intrinsic": [
+        1200,
+        896
+      ],
+      "loading": "lazy",
+      "render": [
+        449,
+        387
+      ],
+      "src": "https://corridorway.com/wp-content/uploads/2026/09/Gemini_Generated_Image_h2beg6h2beg6h2be.png",
+      "srcset": ""
+    },
+    {
+      "alt": "Corridorway",
+      "intrinsic": [
+        170,
+        42
+      ],
+      "loading": "auto",
+      "render": [
+        170,
+        43
+      ],
+      "src": "https://corridorway.com/wp-content/uploads/2026/09/corridorway_header_logo_current_visual_2x-300x75.png",
+      "srcset": "https://corridorway.com/wp-content/uploads/2026/09/corridorway_header_logo_current_visual_2x.png 800w, https://corridorway.com/wp-content/uploads/2026/09/corridorway_header_logo_current_visual_2x-300x75.png 300w, https://corridorway.com/wp-content/uploads/2026/09/corridorway_header_logo_current_visual_2x-768x192.png 768w"
+    },
+    {
+      "alt": "Re-consent",
+      "intrinsic": [
+        150,
+        150
+      ],
+      "loading": "auto",
+      "render": [
+        40,
+        40
+      ],
+      "src": "https://corridorway.com/wp-content/plugins/cookieadmin-pro/assets/images/re-consent-icons/cookieadmin.svg",
+      "srcset": ""
+    }
+  ],
+  "lang": "en-US",
+  "links": [
+    {
+      "text": "",
+      "url": "https://corridorway.com/"
+    },
+    {
+      "text": "COMPANY",
+      "url": "https://corridorway.com/company"
+    },
+    {
+      "text": "",
+      "url": "https://corridorway.com/company"
+    },
+    {
+      "text": "",
+      "url": "https://corridorway.com/company#approach"
+    },
+    {
+      "text": "",
+      "url": "https://corridorway.com/company#governance"
+    },
+    {
+      "text": "MINERALS",
+      "url": "https://corridorway.com/minerals"
+    },
+    {
+      "text": "",
+      "url": "https://corridorway.com/minerals#gypsum"
+    },
+    {
+      "text": "",
+      "url": "https://corridorway.com/minerals#copper"
+    },
+    {
+      "text": "",
+      "url": "https://corridorway.com/minerals#gold"
+    },
+    {
+      "text": "",
+      "url": "https://corridorway.com/minerals"
+    },
+    {
+      "text": "TRADE",
+      "url": "https://corridorway.com/trade"
+    },
+    {
+      "text": "",
+      "url": "https://corridorway.com/trade"
+    },
+    {
+      "text": "",
+      "url": "https://corridorway.com/trade#buyer-requirement"
+    },
+    {
+      "text": "",
+      "url": "https://corridorway.com/trade#supply-opportunity"
+    },
+    {
+      "text": "BERBERA GATEWAY",
+      "url": "https://corridorway.com/berbera-gateway"
+    },
+    {
+      "text": "RESPONSIBLE TRADE",
+      "url": "https://corridorway.com/responsible-trade"
+    },
+    {
+      "text": "INTELLIGENCE",
+      "url": "https://corridorway.com/intelligence"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://corridorway.com/contact"
+    },
+    {
+      "text": "START A TRADE INQUIRY",
+      "url": "https://corridorway.com/trade#buyer-requirement"
+    },
+    {
+      "text": "SUBMIT A BUYER REQUIREMENT",
+      "url": "https://corridorway.com/trade#buyer-requirement"
+    },
+    {
+      "text": "PRESENT A SUPPLY OPPORTUNITY",
+      "url": "https://corridorway.com/trade#supply-opportunity"
+    },
+    {
+      "text": "EXPLORE CORRIDORWAY",
+      "url": "https://corridorway.com/company"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://corridorway.com/minerals"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://corridorway.com/responsible-trade"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://corridorway.com/berbera-gateway"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://corridorway.com/trade"
+    },
+    {
+      "text": "View all minerals",
+      "url": "https://corridorway.com/minerals"
+    },
+    {
+      "text": "EXPLORE",
+      "url": "https://corridorway.com/minerals#gypsum"
+    },
+    {
+      "text": "EXPLORE",
+      "url": "https://corridorway.com/minerals#copper"
+    },
+    {
+      "text": "EXPLORE",
+      "url": "https://corridorway.com/minerals#gold"
+    },
+    {
+      "text": "Explore Berbera",
+      "url": "https://corridorway.com/berbera-gateway"
+    },
+    {
+      "text": "View all evidence",
+      "url": "https://corridorway.com/responsible-trade"
+    },
+    {
+      "text": "View all services",
+      "url": "https://corridorway.com/trade"
+    },
+    {
+      "text": "View all insights",
+      "url": "https://corridorway.com/intelligence"
+    },
+    {
+      "text": "Read more →",
+      "url": "https://corridorway.com/intelligence"
+    },
+    {
+      "text": "Read more →",
+      "url": "https://corridorway.com/intelligence"
+    },
+    {
+      "text": "Read more →",
+      "url": "https://corridorway.com/intelligence"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://corridorway.com/responsible-trade"
+    },
+    {
+      "text": "I AM A BUYER\nSubmit requirement →",
+      "url": "https://corridorway.com/trade#buyer-requirement"
+    },
+    {
+      "text": "I HAVE SUPPLY\nPresent opportunity →",
+      "url": "https://corridorway.com/trade#supply-opportunity"
+    },
+    {
+      "text": "",
+      "url": "https://corridorway.com/"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://corridorway.com/#"
+    },
+    {
+      "text": "X",
+      "url": "https://corridorway.com/#"
+    },
+    {
+      "text": "Mail",
+      "url": "mailto:info@corridorway.com"
+    },
+    {
+      "text": "info@corridorway.com",
+      "url": "mailto:info@corridorway.com"
+    },
+    {
+      "text": "+252 63 448 0044",
+      "url": "tel:+252634480044"
+    },
+    {
+      "text": "WhatsApp",
+      "url": "https://wa.me/252634480044"
+    },
+    {
+      "text": "About Us",
+      "url": "https://corridorway.com/company"
+    },
+    {
+      "text": "Our Approach",
+      "url": "https://corridorway.com/company#approach"
+    },
+    {
+      "text": "Governance",
+      "url": "https://corridorway.com/company#governance"
+    },
+    {
+      "text": "Contact",
+      "url": "https://corridorway.com/company#contact"
+    },
+    {
+      "text": "Gypsum",
+      "url": "https://corridorway.com/minerals#gypsum"
+    },
+    {
+      "text": "Copper",
+      "url": "https://corridorway.com/minerals#copper"
+    },
+    {
+      "text": "Gold & Precious Minerals",
+      "url": "https://corridorway.com/minerals#gold"
+    },
+    {
+      "text": "All Minerals",
+      "url": "https://corridorway.com/minerals"
+    },
+    {
+      "text": "Trade Services",
+      "url": "https://corridorway.com/trade"
+    },
+    {
+      "text": "Buyer Requirement",
+      "url": "https://corridorway.com/trade#buyer-requirement"
+    },
+    {
+      "text": "Supply Opportunity",
+      "url": "https://corridorway.com/trade#supply-opportunity"
+    },
+    {
+      "text": "Gateway Advantage",
+      "url": "https://corridorway.com/berbera-gateway"
+    },
+    {
+      "text": "Port & Logistics",
+      "url": "https://corridorway.com/berbera-gateway#logistics"
+    },
+    {
+      "text": "Connectivity",
+      "url": "https://corridorway.com/berbera-gateway#connectivity"
+    },
+    {
+      "text": "Trade Routes",
+      "url": "https://corridorway.com/berbera-gateway#routes"
+    },
+    {
+      "text": "Our Commitment",
+      "url": "https://corridorway.com/responsible-trade#commitment"
+    },
+    {
+      "text": "Policies",
+      "url": "https://corridorway.com/responsible-trade#policies"
+    },
+    {
+      "text": "Standards",
+      "url": "https://corridorway.com/responsible-trade#standards"
+    },
+    {
+      "text": "Reports",
+      "url": "https://corridorway.com/responsible-trade#evidence"
+    },
+    {
+      "text": "Market Insights",
+      "url": "https://corridorway.com/intelligence#markets"
+    },
+    {
+      "text": "Trade Updates",
+      "url": "https://corridorway.com/intelligence#logistics"
+    },
+    {
+      "text": "Commodity Focus",
+      "url": "https://corridorway.com/intelligence#minerals"
+    },
+    {
+      "text": "Reports",
+      "url": "https://corridorway.com/intelligence#reports"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://corridorway.com/privacy"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://corridorway.com/terms"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://corridorway.com/contact"
+    },
+    {
+      "text": "Powered by .a{fill:#001d39}.b{fill:#985e23}",
+      "url": "https://cookieadmin.net/?utm_source=wpplugin&utm_medium=footer"
+    },
+    {
+      "text": "Powered by .a{fill:#001d39}.b{fill:#985e23}",
+      "url": "https://cookieadmin.net/?utm_source=wpplugin&utm_medium=footer"
+    }
+  ],
+  "main": 0,
+  "meta": [
+    "<meta charset=\"UTF-8\">",
+    "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+    "<meta name=\"robots\" content=\"max-image-preview:large\">",
+    "<link rel=\"canonical\" href=\"https://corridorway.com/\">"
+  ],
+  "overflow": false,
+  "text": "COMPANY\nMINERALS\nTRADE\nBERBERA GATEWAY\nRESPONSIBLE TRADE\nINTELLIGENCE\nCONTACT\nSTART A TRADE INQUIRY\nFROM ORIGIN\nTO GLOBAL INDUSTRY.\n\nQualified mineral opportunities. Disciplined verification. Berbera-connected trade execution.\n\nSUBMIT A BUYER REQUIREMENT\nPRESENT A SUPPLY OPPORTUNITY\nEXPLORE CORRIDORWAY\nTHE CORRIDORWAY PROCESS\nORIGIN\n\nSourced at governance-verified locations\n\nLearn more\nPROOF\n\nVerified through due diligence\n\nLearn more\nMOVEMENT\n\nLogistics through a Berbera Gateway\n\nLearn more\nMARKET\n\nMatching global demand via reliable supply\n\nLearn more\nWHAT WE TRADE\n\nHigh-potential minerals.\nIndustrial impact.\n\nView all minerals\nGYPSUM\nIndustrial Mineral\nAvailability\nActive\nEXPLORE\nCOPPER\nBase Metal\nAvailability\nActive\nEXPLORE\nGOLD & PRECIOUS\nPrecious Metals\nAvailability\nActive\nEXPLORE\nBERBERA GATEWAY\n\nStrategic location.\nOperational excellence.\nGlobal connectivity.\n\nExplore Berbera\nEVIDENCE STACK\n\nTrust is built in verification.\n\nOrigin Verified\nVerified\nOwnership Reviewed\nVerified\nAssay Available\nAvailable\nSpecification Confirmed\nConfirmed\nPayment Terms Agreed\nVerified\nLogistics Ready\nReady\nView all evidence\nTRADE SERVICES\n\nEnd-to-end solutions for successful mineral trade.\n\nView all services\nBuyer Requirement\n\nWe source to your specification.\n\nStrategic Sourcing\n\nAccess vetted supply with reliability.\n\nVerification & Assay\n\nIndependent checks you can trust.\n\nCommercial Alignment\n\nTerms, quality & volumes aligned.\n\nLogistics & Export\n\nBerbera gateway to global markets.\n\nAfter-Sales Support\n\nOngoing support at every stage.\n\nTRADE INTELLIGENCE\n\nActionable insights. Informed decisions.\n\nView all insights\nTRADE UPDATE\nBerbera Port Performance Update\n\nFull brief coming soon.\n\nRead more →\nMARKET INSIGHT\nCopper Market Outlook\n\nFull brief coming soon.\n\nRead more →\nCOMMODITY FOCUS\nGlobal Gypsum Outlook\n\nFull brief coming soon.\n\nRead more →\nRESPONSIBLE TRADE\n\nOur commitment to ethical sourcing and sustainable practices.\n\nLearn more\nOECD-Aligned Due Diligence\nSecure & Compliant Operations\nEnvironmental Stewardship\nCommunity Engagement\nHealth & Safety\nTransparency & Governance\nREADY TO TRADE WITH CONFIDENCE?\n\nJoin global partners moving minerals from origin to industry, through Berbera.\n\nI AM A BUYER\nSubmit requirement →\nI HAVE SUPPLY\nPresent opportunity →\n\nConnecting mineral origin to global industry through the Berbera Gateway.\n\nLinkedIn\nX\nMail\n\ninfo@corridorway.com\n+252 63 448 0044\nWhatsApp\nBerbera, Somaliland\n\nCOMPANY\n\nAbout Us\nOur Approach\nGovernance\nContact\n\nMINERALS\n\nGypsum\nCopper\nGold & Precious Minerals\nAll Minerals\n\nTRADE\n\nTrade Services\nBuyer Requirement\nSupply Opportunity\n\nBERBERA GATEWAY\n\nGateway Advantage\nPort & Logistics\nConnectivity\nTrade Routes\n\nRESPONSIBLE TRADE\n\nOur Commitment\nPolicies\nStandards\nReports\n\nINTELLIGENCE\n\nMarket Insights\nTrade Updates\nCommodity Focus\nReports\n\n© 2026 Corridorway Minerals Trade Office. All rights reserved.\n\nPrivacy Policy    Terms of Use    Contact Us",
+  "title": "Corridorway – Mineral trade intelligence, verification and Berbera-connected market access.",
+  "url": "https://corridorway.com/",
+  "viewport": [
+    1363,
+    936
+  ]
+}

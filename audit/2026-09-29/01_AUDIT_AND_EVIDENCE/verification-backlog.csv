@@ -1,0 +1,13 @@
+task,status,acceptance
+375/390/768/1024/1440/1920 responsive and device tests,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"
+320px reflow and zoom,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"
+Keyboard/focus and screen readers,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"
+Measured color contrast,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"
+Approved staging buyer/supplier/contact end-to-end submissions,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"
+Form actual POST/GET transport and privacy logging,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"
+PSI/Lighthouse mobile/desktop; available CrUX,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"
+robots/sitemap/search-console/404/redirect status,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"
+HTTP/TLS/security headers and server controls,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"
+Cookie blocking and actual processor inventory,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"
+Full media rights/provenance and CSS background inventory,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"
+Source/lot evidence approval,NOT TESTED,"Record actual dated test/evidence, owner and result; retest applicable fixes before closing"

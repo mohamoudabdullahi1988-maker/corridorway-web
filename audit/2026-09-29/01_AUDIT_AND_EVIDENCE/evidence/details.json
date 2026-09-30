@@ -1,0 +1,776 @@
+[
+  {
+    "bodyLinks": [
+      {
+        "text": "info@corridorway.com",
+        "url": "mailto:info@corridorway.com"
+      },
+      {
+        "text": "+252 63 448 0044",
+        "url": "tel:+252634480044"
+      }
+    ],
+    "fields": [],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "A sovereign minerals trade office at the Berbera gateway."
+      },
+      {
+        "tag": "H2",
+        "text": "About Us"
+      },
+      {
+        "tag": "H2",
+        "text": "Our Approach"
+      },
+      {
+        "tag": "H2",
+        "text": "Governance"
+      },
+      {
+        "tag": "H2",
+        "text": "Contact"
+      }
+    ],
+    "images": [
+      {
+        "alt": "Corridorway operations building alongside port cargo yard at night, Berbera",
+        "intrinsic": [
+          1376,
+          768
+        ],
+        "loading": "auto",
+        "render": [
+          1348,
+          320
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/Gemini_Generated_Image_hq33alhq33alhq33.png",
+        "srcset": ""
+      },
+      {
+        "alt": "Re-consent",
+        "intrinsic": [
+          150,
+          150
+        ],
+        "loading": "auto",
+        "render": [
+          40,
+          40
+        ],
+        "src": "https://corridorway.com/wp-content/plugins/cookieadmin-pro/assets/images/re-consent-icons/cookieadmin.svg",
+        "srcset": ""
+      }
+    ],
+    "lang": "en-US",
+    "main": 0,
+    "overflow": false,
+    "url": "https://corridorway.com/company/",
+    "viewport": [
+      1363,
+      936
+    ]
+  },
+  {
+    "bodyLinks": [],
+    "fields": [
+      {
+        "labels": [],
+        "name": "field_f1[first]",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f1[last]",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f2",
+        "required": true,
+        "type": "email"
+      },
+      {
+        "labels": [],
+        "name": "field_f11",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f3",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f12",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f4",
+        "required": true,
+        "type": "select-one"
+      },
+      {
+        "labels": [],
+        "name": "field_f5",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f6",
+        "required": true,
+        "type": "textarea"
+      },
+      {
+        "labels": [],
+        "name": "field_f7",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f8",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f9",
+        "required": true,
+        "type": "checkbox"
+      },
+      {
+        "labels": [],
+        "name": "field_f1[first]",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f1[last]",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f2",
+        "required": true,
+        "type": "email"
+      },
+      {
+        "labels": [],
+        "name": "field_f10",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f3",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f11",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f4",
+        "required": true,
+        "type": "select-one"
+      },
+      {
+        "labels": [],
+        "name": "field_f5",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f6",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f7",
+        "required": true,
+        "type": "textarea"
+      },
+      {
+        "labels": [],
+        "name": "field_f8",
+        "required": true,
+        "type": "checkbox"
+      }
+    ],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "End-to-end solutions for successful mineral trade."
+      },
+      {
+        "tag": "H2",
+        "text": "Trade Services"
+      },
+      {
+        "tag": "H2",
+        "text": "Submit a Buyer Requirement"
+      },
+      {
+        "tag": "H2",
+        "text": "Present a Supply Opportunity"
+      }
+    ],
+    "images": [
+      {
+        "alt": "Container ship at sea",
+        "intrinsic": [
+          1376,
+          768
+        ],
+        "loading": "auto",
+        "render": [
+          1348,
+          320
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/Gemini_Generated_Image_z15jfcz15jfcz15j.png",
+        "srcset": ""
+      },
+      {
+        "alt": "Trade workflow buyer journey: requirement, qualification, verification, commercial structuring, logistics",
+        "intrinsic": [
+          1376,
+          768
+        ],
+        "loading": "auto",
+        "render": [
+          1300,
+          726
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/Gemini_Generated_Image_ere62eere62eere6.png",
+        "srcset": ""
+      },
+      {
+        "alt": "Re-consent",
+        "intrinsic": [
+          150,
+          150
+        ],
+        "loading": "auto",
+        "render": [
+          40,
+          40
+        ],
+        "src": "https://corridorway.com/wp-content/plugins/cookieadmin-pro/assets/images/re-consent-icons/cookieadmin.svg",
+        "srcset": ""
+      }
+    ],
+    "lang": "en-US",
+    "main": 0,
+    "overflow": false,
+    "url": "https://corridorway.com/trade/",
+    "viewport": [
+      1363,
+      936
+    ]
+  },
+  {
+    "bodyLinks": [
+      {
+        "text": "EXPLORE ROUTE INTELLIGENCE",
+        "url": "https://corridorway.com/intelligence"
+      }
+    ],
+    "fields": [],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Connecting Africa to the World"
+      },
+      {
+        "tag": "H2",
+        "text": "Gateway Advantages"
+      },
+      {
+        "tag": "H2",
+        "text": "Route Intelligence"
+      },
+      {
+        "tag": "H2",
+        "text": "Logistics Chain"
+      }
+    ],
+    "images": [
+      {
+        "alt": "Berbera port at dusk with cargo ships and gantry cranes",
+        "intrinsic": [
+          1376,
+          768
+        ],
+        "loading": "auto",
+        "render": [
+          1348,
+          420
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/Gemini_Generated_Image_di6xpzdi6xpzdi6x.png",
+        "srcset": ""
+      },
+      {
+        "alt": "Map of indicative trade routes from Berbera to Europe, the Middle East, Asia and Africa",
+        "intrinsic": [
+          1672,
+          941
+        ],
+        "loading": "auto",
+        "render": [
+          1300,
+          732
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/market-trade-routes-map-berbera.png",
+        "srcset": ""
+      },
+      {
+        "alt": "Re-consent",
+        "intrinsic": [
+          150,
+          150
+        ],
+        "loading": "auto",
+        "render": [
+          40,
+          40
+        ],
+        "src": "https://corridorway.com/wp-content/plugins/cookieadmin-pro/assets/images/re-consent-icons/cookieadmin.svg",
+        "srcset": ""
+      }
+    ],
+    "lang": "en-US",
+    "main": 0,
+    "overflow": false,
+    "url": "https://corridorway.com/berbera-gateway/",
+    "viewport": [
+      1363,
+      936
+    ]
+  },
+  {
+    "bodyLinks": [
+      {
+        "text": "LEARN OUR APPROACH",
+        "url": "https://corridorway.com/company#approach"
+      }
+    ],
+    "fields": [],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Responsible Trade"
+      }
+    ],
+    "images": [
+      {
+        "alt": "Quarry operations",
+        "intrinsic": [
+          1200,
+          896
+        ],
+        "loading": "auto",
+        "render": [
+          1348,
+          320
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/Gemini_Generated_Image_h2beg6h2beg6h2be.png",
+        "srcset": ""
+      },
+      {
+        "alt": "Mountainous geological landscape with a field survey camp at dusk",
+        "intrinsic": [
+          1376,
+          768
+        ],
+        "loading": "auto",
+        "render": [
+          633,
+          353
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/Gemini_Generated_Image_fuxe6mfuxe6mfuxe.png",
+        "srcset": ""
+      },
+      {
+        "alt": "Assay reports, chain-of-custody documentation and analytical equipment",
+        "intrinsic": [
+          1200,
+          896
+        ],
+        "loading": "auto",
+        "render": [
+          633,
+          473
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/Gemini_Generated_Image_8emjbj8emjbj8emj.png",
+        "srcset": ""
+      },
+      {
+        "alt": "Re-consent",
+        "intrinsic": [
+          150,
+          150
+        ],
+        "loading": "auto",
+        "render": [
+          40,
+          40
+        ],
+        "src": "https://corridorway.com/wp-content/plugins/cookieadmin-pro/assets/images/re-consent-icons/cookieadmin.svg",
+        "srcset": ""
+      }
+    ],
+    "lang": "en-US",
+    "main": 0,
+    "overflow": false,
+    "url": "https://corridorway.com/responsible-trade/",
+    "viewport": [
+      1363,
+      936
+    ]
+  },
+  {
+    "bodyLinks": [],
+    "fields": [],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Actionable intelligence. Informed decisions."
+      }
+    ],
+    "images": [
+      {
+        "alt": "Trade professionals reviewing reports",
+        "intrinsic": [
+          1363,
+          760
+        ],
+        "loading": "auto",
+        "render": [
+          1348,
+          320
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/contact_page_visit_berbera_current_v8_wide.png",
+        "srcset": "https://corridorway.com/wp-content/uploads/2026/09/contact_page_visit_berbera_current_v8_wide.png 1376w, https://corridorway.com/wp-content/uploads/2026/09/contact_page_visit_berbera_current_v8_wide-300x167.png 300w, https://corridorway.com/wp-content/uploads/2026/09/contact_page_visit_berbera_current_v8_wide-1024x572.png 1024w, https://corridorway.com/wp-content/uploads/2026/09/contact_page_visit_berbera_current_v8_wide-768x429.png 768w"
+      },
+      {
+        "alt": "Copper ore",
+        "intrinsic": [
+          1024,
+          1024
+        ],
+        "loading": "auto",
+        "render": [
+          363,
+          363
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/intelligence_copper_current-1.png",
+        "srcset": "https://corridorway.com/wp-content/uploads/2026/09/intelligence_copper_current-1.png 1024w, https://corridorway.com/wp-content/uploads/2026/09/intelligence_copper_current-1-300x300.png 300w, https://corridorway.com/wp-content/uploads/2026/09/intelligence_copper_current-1-150x150.png 150w, https://corridorway.com/wp-content/uploads/2026/09/intelligence_copper_current-1-768x768.png 768w"
+      },
+      {
+        "alt": "Berbera container terminal",
+        "intrinsic": [
+          1363,
+          760
+        ],
+        "loading": "auto",
+        "render": [
+          363,
+          202
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/intelligence_berbera_port_current-1.png",
+        "srcset": "https://corridorway.com/wp-content/uploads/2026/09/intelligence_berbera_port_current-1.png 1376w, https://corridorway.com/wp-content/uploads/2026/09/intelligence_berbera_port_current-1-300x167.png 300w, https://corridorway.com/wp-content/uploads/2026/09/intelligence_berbera_port_current-1-1024x572.png 1024w, https://corridorway.com/wp-content/uploads/2026/09/intelligence_berbera_port_current-1-768x429.png 768w"
+      },
+      {
+        "alt": "Gypsum rock",
+        "intrinsic": [
+          1024,
+          1024
+        ],
+        "loading": "auto",
+        "render": [
+          363,
+          363
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/intelligence_gypsum_current-1.png",
+        "srcset": "https://corridorway.com/wp-content/uploads/2026/09/intelligence_gypsum_current-1.png 1024w, https://corridorway.com/wp-content/uploads/2026/09/intelligence_gypsum_current-1-300x300.png 300w, https://corridorway.com/wp-content/uploads/2026/09/intelligence_gypsum_current-1-150x150.png 150w, https://corridorway.com/wp-content/uploads/2026/09/intelligence_gypsum_current-1-768x768.png 768w"
+      },
+      {
+        "alt": "Re-consent",
+        "intrinsic": [
+          150,
+          150
+        ],
+        "loading": "auto",
+        "render": [
+          40,
+          40
+        ],
+        "src": "https://corridorway.com/wp-content/plugins/cookieadmin-pro/assets/images/re-consent-icons/cookieadmin.svg",
+        "srcset": ""
+      }
+    ],
+    "lang": "en-US",
+    "main": 0,
+    "overflow": false,
+    "url": "https://corridorway.com/intelligence/",
+    "viewport": [
+      1363,
+      936
+    ]
+  },
+  {
+    "bodyLinks": [
+      {
+        "text": "info@corridorway.com",
+        "url": "mailto:info@corridorway.com"
+      },
+      {
+        "text": "+252 63 448 0044",
+        "url": "tel:+252634480044"
+      },
+      {
+        "text": "+252 63 448 0044",
+        "url": "https://wa.me/252634480044"
+      },
+      {
+        "text": "START A TRADE INQUIRY",
+        "url": "https://corridorway.com/trade#buyer-requirement"
+      },
+      {
+        "text": "PRESENT A SUPPLY OPPORTUNITY",
+        "url": "https://corridorway.com/trade#supply-opportunity"
+      },
+      {
+        "text": "GET DIRECTIONS",
+        "url": "https://www.google.com/maps/search/?api=1&query=Berbera+Port+Somaliland"
+      }
+    ],
+    "fields": [
+      {
+        "labels": [],
+        "name": "field_f1[first]",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f1[last]",
+        "required": true,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f2",
+        "required": true,
+        "type": "email"
+      },
+      {
+        "labels": [],
+        "name": "field_f3",
+        "required": false,
+        "type": "text"
+      },
+      {
+        "labels": [],
+        "name": "field_f4",
+        "required": false,
+        "type": "select-one"
+      },
+      {
+        "labels": [],
+        "name": "field_f5",
+        "required": true,
+        "type": "textarea"
+      },
+      {
+        "labels": [],
+        "name": "field_f6",
+        "required": false,
+        "type": "checkbox"
+      }
+    ],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Contact Us"
+      },
+      {
+        "tag": "H2",
+        "text": "Get in Touch"
+      },
+      {
+        "tag": "H2",
+        "text": "Visit Us in Berbera"
+      }
+    ],
+    "images": [
+      {
+        "alt": "Berbera port at sunset",
+        "intrinsic": [
+          1363,
+          766
+        ],
+        "loading": "auto",
+        "render": [
+          1348,
+          320
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/contact_page_hero_berbera_current_v8-1-1536x864.png",
+        "srcset": "https://corridorway.com/wp-content/uploads/2026/09/contact_page_hero_berbera_current_v8-1.png 1920w, https://corridorway.com/wp-content/uploads/2026/09/contact_page_hero_berbera_current_v8-1-300x169.png 300w, https://corridorway.com/wp-content/uploads/2026/09/contact_page_hero_berbera_current_v8-1-1024x576.png 1024w, https://corridorway.com/wp-content/uploads/2026/09/contact_page_hero_berbera_current_v8-1-768x432.png 768w, https://corridorway.com/wp-content/uploads/2026/09/contact_page_hero_berbera_current_v8-1-1536x864.png 1536w"
+      },
+      {
+        "alt": "Berbera port aerial view",
+        "intrinsic": [
+          1363,
+          760
+        ],
+        "loading": "auto",
+        "render": [
+          1348,
+          302
+        ],
+        "src": "https://corridorway.com/wp-content/uploads/2026/09/contact_page_visit_berbera_current_v8_wide.png",
+        "srcset": "https://corridorway.com/wp-content/uploads/2026/09/contact_page_visit_berbera_current_v8_wide.png 1376w, https://corridorway.com/wp-content/uploads/2026/09/contact_page_visit_berbera_current_v8_wide-300x167.png 300w, https://corridorway.com/wp-content/uploads/2026/09/contact_page_visit_berbera_current_v8_wide-1024x572.png 1024w, https://corridorway.com/wp-content/uploads/2026/09/contact_page_visit_berbera_current_v8_wide-768x429.png 768w"
+      },
+      {
+        "alt": "Re-consent",
+        "intrinsic": [
+          150,
+          150
+        ],
+        "loading": "auto",
+        "render": [
+          40,
+          40
+        ],
+        "src": "https://corridorway.com/wp-content/plugins/cookieadmin-pro/assets/images/re-consent-icons/cookieadmin.svg",
+        "srcset": ""
+      }
+    ],
+    "lang": "en-US",
+    "main": 0,
+    "overflow": false,
+    "url": "https://corridorway.com/contact/",
+    "viewport": [
+      1363,
+      936
+    ]
+  },
+  {
+    "bodyLinks": [],
+    "fields": [],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Privacy Policy"
+      },
+      {
+        "tag": "H1",
+        "text": "Privacy Policy"
+      },
+      {
+        "tag": "H2",
+        "text": "How information is used"
+      },
+      {
+        "tag": "H2",
+        "text": "Sharing"
+      },
+      {
+        "tag": "H2",
+        "text": "Retention and requests"
+      }
+    ],
+    "images": [
+      {
+        "alt": "Re-consent",
+        "intrinsic": [
+          150,
+          150
+        ],
+        "loading": "auto",
+        "render": [
+          40,
+          40
+        ],
+        "src": "https://corridorway.com/wp-content/plugins/cookieadmin-pro/assets/images/re-consent-icons/cookieadmin.svg",
+        "srcset": ""
+      }
+    ],
+    "lang": "en-US",
+    "main": 0,
+    "overflow": false,
+    "url": "https://corridorway.com/privacy/",
+    "viewport": [
+      1363,
+      936
+    ]
+  },
+  {
+    "bodyLinks": [],
+    "fields": [],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Terms of Use"
+      },
+      {
+        "tag": "H1",
+        "text": "Terms of Use"
+      },
+      {
+        "tag": "H2",
+        "text": "Information and submissions"
+      },
+      {
+        "tag": "H2",
+        "text": "Third-party information"
+      },
+      {
+        "tag": "H2",
+        "text": "Limitation"
+      }
+    ],
+    "images": [
+      {
+        "alt": "Re-consent",
+        "intrinsic": [
+          150,
+          150
+        ],
+        "loading": "auto",
+        "render": [
+          40,
+          40
+        ],
+        "src": "https://corridorway.com/wp-content/plugins/cookieadmin-pro/assets/images/re-consent-icons/cookieadmin.svg",
+        "srcset": ""
+      }
+    ],
+    "lang": "en-US",
+    "main": 0,
+    "overflow": false,
+    "url": "https://corridorway.com/terms/",
+    "viewport": [
+      1363,
+      936
+    ]
+  }
+]

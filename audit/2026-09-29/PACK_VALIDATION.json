@@ -1,0 +1,10 @@
+{
+  "action_prompts": 26,
+  "image_slot_prompts": 23,
+  "hd_svg_png_pairs": 8,
+  "retained_desktop_screenshots": 10,
+  "local_links": "PASS",
+  "png_dimensions": "PASS by production script",
+  "production_fix_status": "NOT IMPLEMENTED",
+  "website_responsive_QA": "NOT TESTED; mobile image is proposed reference"
+}

@@ -1,0 +1,10 @@
+claim_id,url,claim,required_support,audit_status,owner,record_reference,review_date,approval_state,disclosure_scope
+C01,https://corridorway.com/,Copper/gold availability Active,Lot-specific offer readiness,UNVERIFIED / conflicts with pending detailed checks,TO ASSIGN,,,PENDING,TO APPROVE
+C02,https://corridorway.com/,Origin/ownership/assay/specification/payment/logistics complete,Lot approval record,UNVERIFIED,TO ASSIGN,,,PENDING,TO APPROVE
+C03,https://corridorway.com/company/,Sovereign trade office,Mandate/legal record,UNVERIFIED,TO ASSIGN,,,PENDING,TO APPROVE
+C04,https://corridorway.com/minerals/,Gypsum chemistry and year-round supply,Assay/specification/supply record,UNVERIFIED,TO ASSIGN,,,PENDING,TO APPROVE
+C05,https://corridorway.com/berbera-gateway/,18m+ depth,Dated operator terminal data,UNVERIFIED,TO ASSIGN,,,PENDING,TO APPROVE
+C06,https://corridorway.com/berbera-gateway/,Regional transit bands Active,Named-port carrier quotation/date,UNVERIFIED,TO ASSIGN,,,PENDING,TO APPROVE
+C07,https://corridorway.com/responsible-trade/,OECD-aligned / HSE / community activity,Approved procedures/records,UNVERIFIED,TO ASSIGN,,,PENDING,TO APPROVE
+C08,https://corridorway.com/minerals/,Government regional mineral occurrences,Exact authoritative occurrence reference,SOURCE REVIEW REQUIRED,TO ASSIGN,,,PENDING,TO APPROVE
+C09,https://corridorway.com/minerals/,Response within 24 hours,Desk coverage/SLA owner,NOT TESTED,TO ASSIGN,,,PENDING,TO APPROVE
