@@ -1,0 +1,8 @@
+.env
+wp-config.php
+*.sql
+*.sql.gz
+*.tar.gz
+*.zip
+backups/
+wp-content/uploads/
